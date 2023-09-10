@@ -1,5 +1,5 @@
 ########################################## DICTIONARY IN PYTHON ########################################################
-#Dictionary i an example of a key-value store also known as mapping
+#Dictionary is an example of a key-value store also known as mapping
 d={}
 d[1]='hi'
 d[2]='hg'
